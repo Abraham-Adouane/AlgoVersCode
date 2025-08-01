@@ -3,6 +3,8 @@ package training.afpa.cda24060.main;
 
 import static training.afpa.cda24060.exercices.Exo4_1_Moyenne.moyenne;
 import static training.afpa.cda24060.exercices.exoalgo.Exo1_PremiersNombresEntiers.premiersNombresEntiers;
+import static training.afpa.cda24060.exercices.exoalgo.Exo2_Factorielle.factorielle;
+import static training.afpa.cda24060.exercices.exoalgo.Exo6_TableauFactorielle.tableauFactorielle;
 import static training.afpa.cda24060.exercices.exocode.Exo5_Calculatrice.calculatrice;
 import static training.afpa.cda24060.exercices.exoalgo.Exo5_RechercheDichotomique.rechercheDichotomique;
 import static training.afpa.cda24060.exercices.exocode.Exo1_RemplirLireMaxEntier.remplirTableau;
@@ -30,7 +32,7 @@ public class Main {
 //        equationSecondDegre(); // exo3
 //        calculPuissance(); //exo4
 //        rechercheDichotomique(); //exo4
-//        tableauFactorielle(); // exo6
+        tableauFactorielle(); // exo6
 
 /*--------Ecrire un algorithme - partie 2 (exocode)------------*/
         /*-----exo1-----*/
@@ -51,6 +53,7 @@ public class Main {
 
         /*-----exo6  -----*/
 //        triTableauMain();
+
 
     }
 
