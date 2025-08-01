@@ -1,6 +1,6 @@
 package training.afpa.cda24060.exercices.exocode;
 // Ecrivez un algorithme en pseudocode qui permet de remplir aléatoirement un tableau d’entiers de TAILLE éléments dans le module principal puis qui affiche la valeur entière maximum de ce tableau d’entiers.
-public class RemplirLireMaxEntier {
+public class Exo1_RemplirLireMaxEntier {
 
     public static int readMaxTabInt(int[] tab){
         int max = tab[0];
